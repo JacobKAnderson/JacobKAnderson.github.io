@@ -33,7 +33,7 @@ html {
     bottom: 50px;
     right: 0;
     background-color: #FFF;
-    color: #337AB7;
+    color: #224634;
     text-align: center;
     font-size: 30px;
     text-decoration: none;
@@ -51,37 +51,37 @@ html {
 .about-section {
     height: 100%;
     padding-top: 150px;
-    text-align: center;
-    background: #EFDECD;
+    text-align: left;
+    background: #63775b;
 }
 .whatwedo-section {
     height: 100%;
     padding-top: 150px;
-    text-align: center;
+    text-align: left;
     background: #fff;
 }
 .contact-section {
     height: 100%;
     padding-top: 150px;
-    text-align: center;
-    background: #EFDECD;
+    text-align: left;
+    background: #63775b;
 }
 .employment-section {
     height: 100%;
     padding-top: 150px;
-    text-align: center;
-    background: #0094ff;
+    text-align: left;
+    background: #fff;
 }
 .navbar-default .navbar-nav > li > a:hover {
 	color: #333;
 	background-color: #F0F0F0;
 }
 .navbar-default {
-    background-color: #EBFAFF;
+    background-color: #3b3c36;
     border-color: #e7e7e7;
 }
 .navbar-default .navbar-nav > li > a {
-    color: #000;
+    color: #fff;
 }
 
 
