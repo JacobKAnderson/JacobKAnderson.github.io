@@ -53,18 +53,20 @@ html {
     padding-top: 150px;
     text-align: left;
     background: #63775b;
+    color: #fff;
 }
-.whatwedo-section {
+.projects-section {
     height: 100%;
     padding-top: 150px;
     text-align: left;
     background: #fff;
 }
-.contact-section {
+.skills-section {
     height: 100%;
     padding-top: 150px;
     text-align: left;
     background: #63775b;
+    color: #fff;
 }
 .employment-section {
     height: 100%;
